@@ -191,7 +191,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Shekhar Vaidya - [shekhar@tech-latest.com](mailto:shekhar@tech-latest.com)
 
-Project Link: [https://github.com/starkSV/starkSV-new.git](https://github.com/starkSV/starkSV-new.git)
+Project Link: [https://github.com/starkSV/starkSV-new](https://github.com/starkSV/starkSV-new)
 
 ## Acknowledgments
 
