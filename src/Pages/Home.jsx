@@ -26,9 +26,9 @@ export default function HomePage() {
       
       <Contact 
         emailjsConfig={{
-          serviceId: "service_swubjt9",     // Replace with your actual Service ID from EmailJS
-          templateId: "template_xl5505m",   // Replace with your actual Template ID from EmailJS  
-          publicKey: "h9ZA1tIrtzGXLl1lK"      // Replace with your actual Public Key from EmailJS
+          serviceId: "service_swubjt9",     
+          templateId: "template_xl5505m",     
+          publicKey: "h9ZA1tIrtzGXLl1lK" 
         }}
         fallbackEmail="shekhar@tech-latest.com"
       />
