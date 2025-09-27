@@ -96,7 +96,7 @@
     ],
     "challenges": "Maintaining up-to-date links and ensuring compatibility with Microsoft's changing APIs.",
     "timeline": "1 month",
-    "year": 2024
+    "year": 2025
   },
   {
     "id": "portfolio-v3",
@@ -110,7 +110,7 @@
     "tags": ["React", "Tailwind CSS", "Vite", "Performance"],
     "category": "Portfolio",
     "status": "ongoing",
-    "github": "https://github.com/starkSV/portfolio-v3",
+    "github": "https://github.com/starkSV/starkSV-new",
     "demo": "#",
     "techStack": {
       "frontend": ["React", "Tailwind CSS", "Vite"],
@@ -127,32 +127,30 @@
     ],
     "challenges": "Migrating from vanilla HTML/CSS/JS while maintaining design consistency.",
     "timeline": "2 months",
-    "year": 2024
+    "year": 2025
   },
   {
-    "id": "ai-content-generator",
-    "title": "AI Content Generator",
-    "shortDesc": "AI-powered tool for generating blog posts and social media content.",
-    "fullDesc": "An intelligent content generation platform that uses AI to create blog posts, social media content, and marketing copy. Features customizable templates, tone adjustment, and multi-platform optimization.",
+    "id": "minxlink",
+    "title": "MinxLink",
+    "shortDesc": "AI-powered tool for shortening URL.",
+    "fullDesc": "MinxLink is a powerful and modern URL shortener designed to make link management effortless. It allows users to create, manage, and track shortened URLs efficiently.",
     "image": "/assets/ai-generator-banner.jpg",
     "images": [],
-    "tags": ["React", "Python", "OpenAI", "Machine Learning"],
+    "tags": ["React", "FastAPI", "Bootstrap", "OpenAI", "Machine Learning", "PostgreSQL"],
     "category": "AI Tool",
     "status": "planned",
     "github": "#",
     "demo": "#",
     "techStack": {
-      "frontend": ["React", "Tailwind CSS"],
+      "frontend": ["React", "Bootstrap", "Tailwind CSS"],
       "backend": ["Python", "FastAPI", "OpenAI API"],
       "database": ["PostgreSQL", "Redis"]
     },
     "features": [
-      "AI-powered content generation",
-      "Multiple content types",
-      "Customizable templates",
-      "Tone adjustment",
-      "Multi-platform export",
-      "Content scheduling"
+      "AI-powered url shortner",
+      "Advanced Stats",
+      "Customizable url alis",
+      "Custom domain"
     ],
     "challenges": "Balancing AI creativity with brand consistency and managing API costs.",
     "timeline": "4 months",
